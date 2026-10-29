@@ -1,0 +1,23 @@
+{
+  "name": "exp-demo",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/photinapark/m3-wk1-d2-demo#readme",
+  "bugs": {
+    "url": "https://github.com/photinapark/m3-wk1-d2-demo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/photinapark/m3-wk1-d2-demo.git"
+  },
+  "license": "ISC",
+  "author": "Photina",
+  "type": "commonjs",
+  "main": "exp_demo1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
